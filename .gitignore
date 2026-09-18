@@ -1,0 +1,12 @@
+# environment 
+venv/
+*.json
+.env
+kaggle.json
+access_token
+
+# files
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+Data/*.csv        # Data files are often too large; use DVC or link instead
