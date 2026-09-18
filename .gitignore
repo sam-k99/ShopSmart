@@ -10,3 +10,5 @@ access_token
 __pycache__/
 *.pyc
 Data/*.csv        # Data files are often too large; use DVC or link instead
+Data/*.zip
+Data/*.xlsx
